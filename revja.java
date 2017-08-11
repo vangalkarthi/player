@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class ReverseNumber
+class Revja
 {
    public static void main(String args[])
    {
